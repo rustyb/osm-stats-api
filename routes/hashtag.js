@@ -90,7 +90,7 @@ module.exports = [
   //   path: '/hashtags/{id}',
   //   handler: allHashtagData
   // }
-},
+//},
 {
   method: 'GET',
   path: '/hashtags/{id}/users',
